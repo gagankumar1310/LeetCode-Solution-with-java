@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0001-two-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
