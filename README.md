@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0704-binary-search) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -32,12 +35,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
