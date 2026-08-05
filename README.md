@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0704-binary-search) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
