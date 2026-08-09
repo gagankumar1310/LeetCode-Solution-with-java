@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0704-binary-search) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
