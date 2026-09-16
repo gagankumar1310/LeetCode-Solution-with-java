@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0704-binary-search) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
