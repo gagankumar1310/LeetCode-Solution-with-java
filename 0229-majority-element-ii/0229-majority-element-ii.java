@@ -1,17 +1,18 @@
 class Solution {
     public List<Integer> majorityElement(int[] arr) {
         int n = arr.length; 
+        Arrays.sort(arr) ;
         ArrayList<Integer> ans = new ArrayList<>();
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;){ 
             int count = 1 ; 
-            for(int j=i+1;j<n;j++){
-              if(arr[i]==arr[j]){
+             while(i+1<n && arr[i]==arr[i+1]){
                 count++ ;
-              }
+                i++ ; 
+             }
+            if(count>n/3) {
+                ans.add(arr[i]) ;
             }
-            if(ans.contains(arr[i]))
-                continue;
-            if(count>n/3) ans.add(arr[i]) ;
+            i++ ; 
         }
         return ans ; 
     }
