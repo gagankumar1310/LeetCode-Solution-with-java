@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0073-set-matrix-zeroes) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
