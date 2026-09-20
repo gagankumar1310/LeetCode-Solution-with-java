@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
@@ -82,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
