@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0507-perfect-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
