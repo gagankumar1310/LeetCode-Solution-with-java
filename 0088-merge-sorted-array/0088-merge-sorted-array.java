@@ -5,14 +5,20 @@ class Solution {
         int k = m+n-1 ; 
         while(i>=0 && j>=0){
             if(num1[i]>num2[j]){
-                num1[k--] = num1[i--] ;
+                num1[k] = num1[i] ;
+                i-- ;
+                k-- ; 
             }
             else {
-                 num1[k--] = num2[j--] ;
+                 num1[k] = num2[j] ;
+                 j-- ;
+                 k-- ;
             }
         }
         while(j>=0){
-            num1[k--] = num2[j--] ;
+            num1[k] = num2[j] ;
+            j-- ;
+            k-- ; 
         }
     }
 }
