@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0905-sort-array-by-parity) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/2643-row-with-maximum-ones) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0905-sort-array-by-parity) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
