@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0905-sort-array-by-parity) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/2643-row-with-maximum-ones) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0704-binary-search) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
