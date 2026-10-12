@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0905-sort-array-by-parity) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
