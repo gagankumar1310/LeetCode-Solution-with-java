@@ -12,12 +12,6 @@ class Solution {
                 j--;
                 continue;
             }
-
-
-
-
-
-
             if(Character.toLowerCase(s.charAt(i))!= 
             Character.toLowerCase(s.charAt(j))
             ){
