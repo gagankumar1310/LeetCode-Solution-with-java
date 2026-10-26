@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/0443-string-compression) |
 | [1903-largest-odd-number-in-string](https://github.com/gagankumar1310/LeetCode-Solution-with-java/tree/master/1903-largest-odd-number-in-string) |
 ## Newton's Method
 |  |
